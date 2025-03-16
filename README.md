@@ -33,7 +33,7 @@ Total Runs<br>
 ## 🖥️ Steps to Create the Dashboard 
 1. Prepare the Dataset: <br>
 Gather and clean data for ODI batting records.<br>
-I used https://www.bcci.tv/international/men/stats/odi for the data.<br>
+I used https://www.bcci.tv/ for the data.<br>
 Ensure all columns are formatted correctly (e.g., numerical values for averages, runs, and strike rates).<br>
 
 2. Load Data into Power BI: <br>
